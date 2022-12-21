@@ -9,6 +9,8 @@ Adaptive NLM 		[2]
 Sapiro NLM 			[3]
 Block NLM 			[4]
 
+Note I did not include any novel algorithms proposed/implemented in my research as it is still ongoing with hopes to publish.
+
 References:
 
 [1] A. Buades and J.-M. Morel, “A non-local algorithm for image denoising,” IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2005.
